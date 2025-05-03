@@ -1,24 +1,3 @@
-// // const body = document.body
-// // // body.append("Hello World!")
-// // const div= document.createElement ("div")
-// // body.append(div)
-// // // div.innerHTML = "Hello World!"
-// // div.innerHTML = "<strong>Hello World!</strong>"
-
-
-// // // const div = document.querySelector('div')
-
-// // // console.log(div.textContent)
-// // // console.log(div.innerText)
-
-// const body = document.body
-// const div = document.querySelector('div')
-// const spanhi = document.querySelector('#hi')
-// const spanbye = document.querySelector('#bye')
-
-// // spanbye.remove()
-// console.log (spanhi.title)
-
 // Button click event to change color
 const colorChangeBtn = document.getElementById('colorChangeBtn');
 colorChangeBtn.addEventListener('click', () => {
